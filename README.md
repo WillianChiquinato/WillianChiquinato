@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 Meu nome é Willian de sena chiquinato, tenho 20 anos e atualmente sou desenvolver FullStack.
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados.
-Atualmente, estou atuando na área de
-💻 **Game Dev - Pc e Mobile**
-💻 **FullStack PHP**
-💻 **Dev Mobile Flutter**
-💻 **Banco de dados MySQL**
+Atualmente, estou atuando na área de <br>
+💻 **Game Dev - Pc e Mobile**<br>
+💻 **FullStack PHP**<br>
+💻 **Dev Mobile Flutter**<br>
+💻 **Banco de dados MySQL**<br>
 
 ## 🛠️ Tecnologias que utilizo:
 - Principais Linguagens: C#, HTML - CS - JS, PHP, Dart.
