@@ -19,7 +19,7 @@ Meu nome é Willian de sena chiquinato, tenho 20 anos e atualmente sou desenvolv
 Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados.
 Atualmente, estou atuando na área de <br>
 💻 **Game Dev - Pc e Mobile**<br>
-💻 **FullStack PHP**<br>
+💻 **FullStack REACT**<br>
 💻 **Dev Mobile Flutter**<br>
 💻 **Banco de dados MySQL**<br>
 
