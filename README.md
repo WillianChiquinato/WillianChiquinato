@@ -1,32 +1,17 @@
-<!--
-**WillianChiquinato/WillianChiquinato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Olá Rede, Tudo bem!? 👋
-Meu nome é Willian de sena chiquinato, tenho 20 anos e atualmente sou desenvolver FullStack.
+Meu nome é Willian de Sena Chiquinato, tenho 20 anos e atualmente sou desenvolvedor FullStack & Game Dev.
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados.
-Atualmente, estou atuando na área de <br>
+Sou apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados.
+Atualmente, estou atuando nas áreas de <br>
 💻 **Game Dev - Pc e Mobile**<br>
 💻 **FullStack REACT**<br>
 💻 **Dev Mobile Flutter**<br>
 💻 **Banco de dados MySQL**<br>
 
 ## 🛠️ Tecnologias que utilizo:
-- Principais Linguagens: C#, HTML - CS - JS, PHP, Dart.
-- Ferramentas: Unity, Android Studio, VScode, Figma, Git/Git Bash, APIs RestFul, Apache && PDO.
-- Frameworks: Unity, Laravel, Symphony, Flutter, Vue.js.
+- Principais Linguagens: C#, HTML - CSS, JavaSript, Dart.
+- Ferramentas: Unity, Android Studio, VScode, Figma, Git/Git Bash, APIs RestFul.
+- Frameworks: Unity, Vite, React.js, Node.js, Flutter.
 
 ## 🚀 Projetos Atuais:
 - **Lility Search Truth:** Um jogo 2D MetroidVania com inspirações de Zelda, Celeste e Hollow Knight, Uma garota de 15 anos perde seu pai após ele desaparecer misteriosamente deixando pistas do que ocorreu, sendo raptado pelo governo, assim, lility terá que explorar diversas cidades em busca de informação para achar seu pai e derrubar o governo opressor.
