@@ -9,9 +9,14 @@ Atualmente, estou atuando nas áreas de <br>
 💻 **Banco de dados MySQL**<br>
 
 ## 🛠️ Tecnologias que utilizo:
-- Principais Linguagens: C#, HTML - CSS, JavaSript, Dart.
-- Ferramentas: Unity, Android Studio, VScode, Figma, Git/Git Bash, APIs RestFul.
-- Frameworks: Unity, Vite, React.js, Node.js, Flutter.
+**Principais Linguagens:**
+- C#, HTML, CSS, JavaScript, Dart
+
+**Ferramentas:**
+- Unity, Android Studio, VS Code, Figma, Git/Git Bash, APIs RESTful
+
+**Frameworks:**
+- Unity, Vite, React.js, Node.js, Flutter
 
 ## 🚀 Projetos Atuais:
 - **Lility Search Truth:** Um jogo 2D MetroidVania com inspirações de Zelda, Celeste e Hollow Knight, Uma garota de 15 anos perde seu pai após ele desaparecer misteriosamente deixando pistas do que ocorreu, sendo raptado pelo governo, assim, lility terá que explorar diversas cidades em busca de informação para achar seu pai e derrubar o governo opressor.
